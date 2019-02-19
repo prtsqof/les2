@@ -157,3 +157,4 @@ listNumbers = []
 for el in range(numbersSame):
 	listNumbers.append(random.randint('-100', '100'))
 print(listNumbers)
+#stop
