@@ -26,7 +26,7 @@ random = random.sample(list1, randomNumb)
 list2 = random
 list3 = random
 print(list2)
-print(list3)
+print(list3)e
 """
 
 list2 = list(set(list1[:6]))
