@@ -267,4 +267,4 @@ print('Родители: {0}, {1}'.format(student['parents']['mather'],
 print('\nКласс: "8А"\nПреподаватели: '
       '{0}'.format(', '.join(school.get_teachers('8А'))))
 
-#da
+#daa
