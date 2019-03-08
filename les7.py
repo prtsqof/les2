@@ -13,7 +13,7 @@ class Cask:
         self.gen = self.f()
 
 
-
+#
 class Loto:
     #Нарезаем карточки
     def __set_card(self):
