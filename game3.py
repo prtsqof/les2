@@ -141,3 +141,5 @@ if __name__ == '__main__':
     main()
     game()
     input ("\nНажмите Enter, чтобы выйти")
+
+#
